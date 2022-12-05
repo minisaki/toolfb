@@ -1,0 +1,36 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>Text-align-justify-icon.png</file>
+    <file>Align-Right-icon.png</file>
+    <file>Add-icon.png</file>
+    <file>Pen-5-icon.png</file>
+    <file>Add-User-icon.png</file>
+    <file>apps.png</file>
+    <file>Big-Data-icon.png</file>
+    <file>Close-icon.png</file>
+    <file>download.png</file>
+    <file>download (1).png</file>
+    <file>facebook.png</file>
+    <file>Facebook-icon.png</file>
+    <file>Folder-Add-icon.png</file>
+    <file>Folder-Settings-icon.png</file>
+    <file>icon.qrc</file>
+    <file>Monitor-icon.png</file>
+    <file>Network-icon.png</file>
+    <file>Rename-icon.png</file>
+    <file>Save-icon.png</file>
+    <file>trash.png</file>
+    <file>apps.png</file>
+    <file>Big-Data-icon.png</file>
+    <file>Close-icon.png</file>
+    <file>download.png</file>
+    <file>download (1).png</file>
+    <file>facebook.png</file>
+    <file>Folder-Add-icon.png</file>
+    <file>Folder-Settings-icon.png</file>
+    <file>Monitor-icon.png</file>
+    <file>Rename-icon.png</file>
+    <file>Save-icon.png</file>
+    <file>trash.png</file>
+  </qresource>
+</RCC>

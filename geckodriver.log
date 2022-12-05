@@ -1,0 +1,205 @@
+1662393911205	geckodriver	INFO	Listening on 127.0.0.1:51059
+1662393911715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegrrRcF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662393913105	Marionette	INFO	Marionette enabled
+1662393913111	Marionette	INFO	Listening on port 46465
+Read port: 46465
+WebDriver BiDi listening on ws://localhost:33789
+1662393913329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegrrRcF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33789/devtools/browser/17125b0a-29ce-44fb-8f23-c6f7a65225be
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662393930743	Marionette	INFO	Stopped listening on port 46465
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1662393934755	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:576
+1662393949292	geckodriver	INFO	Listening on 127.0.0.1:57779
+1662393949296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49903" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4Ixv2W"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662393950292	Marionette	INFO	Marionette enabled
+1662393950300	Marionette	INFO	Listening on port 40503
+WebDriver BiDi listening on ws://localhost:49903
+Read port: 40503
+1662393950517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4Ixv2W/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49903/devtools/browser/00dee1d9-a554-4bb7-befe-14f858eac969
+1662393952500	geckodriver	INFO	Listening on 127.0.0.1:55369
+1662393953005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiles8oVjA"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662393973009	Marionette	INFO	Marionette enabled
+1662393973013	Marionette	INFO	Listening on port 39749
+WebDriver BiDi listening on ws://localhost:33327
+Read port: 39749
+1662393973127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiles8oVjA/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33327/devtools/browser/1acbb02b-2770-4dfe-9286-cbff2d7ae59c
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yw/l/en_GB/G79S4wpQ6hy.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662393978658	Marionette	INFO	Stopped listening on port 40503
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i_-Z4/yD/l/makehaste_jhash/BWHYfKqR_gfcvK8E39sq4OGGIf2mdiB74ksGMDSiBKI7rPYkQzvUJP9sAIY5DSwvyMoYElJG8xYxQ7CVNy2SwuaF4BrGFvqKqwP.js?_nc_x=_MN8pvpqAF5, line 1120: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i_-Z4/yD/l/makehaste_jhash/BWHYfKqR_gfcvK8E39sq4OGGIf2mdiB74ksGMDSiBKI7rPYkQzvUJP9sAIY5DSwvyMoYElJG8xYxQ7CVNy2SwuaF4BrGFvqKqwP.js?_nc_x=_MN8pvpqAF5, line 1120: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+[Parent 18206, Main Thread] WARNING: firefox has no capability of surrounding-text feature: 'glib warning', file /build/firefox-cvs9kB/firefox-104.0+build3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:18206): IBUS-WARNING **: 23:06:23.349: firefox has no capability of surrounding-text feature
+[Parent 18206, Main Thread] WARNING: firefox has no capability of surrounding-text feature: 'glib warning', file /build/firefox-cvs9kB/firefox-104.0+build3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:18206): IBUS-WARNING **: 23:06:23.444: firefox has no capability of surrounding-text feature
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662394037955	Marionette	INFO	Stopped listening on port 39749
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662394053901	geckodriver	INFO	Listening on 127.0.0.1:38877
+1662394053905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60119" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileskxuxK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662394054709	Marionette	INFO	Marionette enabled
+1662394054715	Marionette	INFO	Listening on port 39051
+WebDriver BiDi listening on ws://localhost:60119
+Read port: 39051
+1662394054928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileskxuxK/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60119/devtools/browser/fc6af0fd-0346-4d39-9897-1f3fc67f4f8c
+1662394056561	geckodriver	INFO	Listening on 127.0.0.1:44359
+1662394056568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelgpmXy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662394057409	Marionette	INFO	Marionette enabled
+1662394057414	Marionette	INFO	Listening on port 44275
+WebDriver BiDi listening on ws://localhost:55073
+Read port: 44275
+1662394057518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelgpmXy/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55073/devtools/browser/f4b7ab55-c1d6-4c07-89e5-fed6669e7951
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yw/l/en_GB/G79S4wpQ6hy.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i1BW4/y_/l/makehaste_jhash/cvK8E39sq4OGGIf2mdiB74ksGMDSiBKI7rPYkQzvUJP9sAIY5DSwvyMoYElJG8xYxQ7CVNy2SwuaF4BrGFvqKqwPRMxyukigPfwVHskZ6eGX_DYEXi9USkRAhXtWeTavrTrzuSPATQcvvXUku_ciq_pTMFAn3Pkek45nx5gsoin8UjS1ojUNHcdC1KJ.js?_nc_x=_MN8pvpqAF5, line 649: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i1BW4/y_/l/makehaste_jhash/cvK8E39sq4OGGIf2mdiB74ksGMDSiBKI7rPYkQzvUJP9sAIY5DSwvyMoYElJG8xYxQ7CVNy2SwuaF4BrGFvqKqwPRMxyukigPfwVHskZ6eGX_DYEXi9USkRAhXtWeTavrTrzuSPATQcvvXUku_ciq_pTMFAn3Pkek45nx5gsoin8UjS1ojUNHcdC1KJ.js?_nc_x=_MN8pvpqAF5, line 649: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i1BW4/y_/l/makehaste_jhash/cvK8E39sq4OGGIf2mdiB74ksGMDSiBKI7rPYkQzvUJP9sAIY5DSwvyMoYElJG8xYxQ7CVNy2SwuaF4BrGFvqKqwPRMxyukigPfwVHskZ6eGX_DYEXi9USkRAhXtWeTavrTrzuSPATQcvvXUku_ciq_pTMFAn3Pkek45nx5gsoin8UjS1ojUNHcdC1KJ.js?_nc_x=_MN8pvpqAF5, line 649: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i1BW4/y_/l/makehaste_jhash/cvK8E39sq4OGGIf2mdiB74ksGMDSiBKI7rPYkQzvUJP9sAIY5DSwvyMoYElJG8xYxQ7CVNy2SwuaF4BrGFvqKqwPRMxyukigPfwVHskZ6eGX_DYEXi9USkRAhXtWeTavrTrzuSPATQcvvXUku_ciq_pTMFAn3Pkek45nx5gsoin8UjS1ojUNHcdC1KJ.js?_nc_x=_MN8pvpqAF5, line 649: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i1BW4/y_/l/makehaste_jhash/cvK8E39sq4OGGIf2mdiB74ksGMDSiBKI7rPYkQzvUJP9sAIY5DSwvyMoYElJG8xYxQ7CVNy2SwuaF4BrGFvqKqwPRMxyukigPfwVHskZ6eGX_DYEXi9USkRAhXtWeTavrTrzuSPATQcvvXUku_ciq_pTMFAn3Pkek45nx5gsoin8UjS1ojUNHcdC1KJ.js?_nc_x=_MN8pvpqAF5, line 649: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i1BW4/y_/l/makehaste_jhash/cvK8E39sq4OGGIf2mdiB74ksGMDSiBKI7rPYkQzvUJP9sAIY5DSwvyMoYElJG8xYxQ7CVNy2SwuaF4BrGFvqKqwPRMxyukigPfwVHskZ6eGX_DYEXi9USkRAhXtWeTavrTrzuSPATQcvvXUku_ciq_pTMFAn3Pkek45nx5gsoin8UjS1ojUNHcdC1KJ.js?_nc_x=_MN8pvpqAF5, line 649: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i1BW4/y_/l/makehaste_jhash/cvK8E39sq4OGGIf2mdiB74ksGMDSiBKI7rPYkQzvUJP9sAIY5DSwvyMoYElJG8xYxQ7CVNy2SwuaF4BrGFvqKqwPRMxyukigPfwVHskZ6eGX_DYEXi9USkRAhXtWeTavrTrzuSPATQcvvXUku_ciq_pTMFAn3Pkek45nx5gsoin8UjS1ojUNHcdC1KJ.js?_nc_x=_MN8pvpqAF5, line 649: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i1BW4/y_/l/makehaste_jhash/cvK8E39sq4OGGIf2mdiB74ksGMDSiBKI7rPYkQzvUJP9sAIY5DSwvyMoYElJG8xYxQ7CVNy2SwuaF4BrGFvqKqwPRMxyukigPfwVHskZ6eGX_DYEXi9USkRAhXtWeTavrTrzuSPATQcvvXUku_ciq_pTMFAn3Pkek45nx5gsoin8UjS1ojUNHcdC1KJ.js?_nc_x=_MN8pvpqAF5, line 649: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i1BW4/y_/l/makehaste_jhash/cvK8E39sq4OGGIf2mdiB74ksGMDSiBKI7rPYkQzvUJP9sAIY5DSwvyMoYElJG8xYxQ7CVNy2SwuaF4BrGFvqKqwPRMxyukigPfwVHskZ6eGX_DYEXi9USkRAhXtWeTavrTrzuSPATQcvvXUku_ciq_pTMFAn3Pkek45nx5gsoin8UjS1ojUNHcdC1KJ.js?_nc_x=_MN8pvpqAF5, line 649: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i_-Z4/yD/l/makehaste_jhash/BWHYfKqR_gfcvK8E39sq4OGGIf2mdiB74ksGMDSiBKI7rPYkQzvUJP9sAIY5DSwvyMoYElJG8xYxQ7CVNy2SwuaF4BrGFvqKqwP.js?_nc_x=_MN8pvpqAF5, line 1120: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i_-Z4/yD/l/makehaste_jhash/BWHYfKqR_gfcvK8E39sq4OGGIf2mdiB74ksGMDSiBKI7rPYkQzvUJP9sAIY5DSwvyMoYElJG8xYxQ7CVNy2SwuaF4BrGFvqKqwP.js?_nc_x=_MN8pvpqAF5, line 1120: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662394064474	Marionette	INFO	Stopped listening on port 39051
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 18905, Main Thread] WARNING: firefox has no capability of surrounding-text feature: 'glib warning', file /build/firefox-cvs9kB/firefox-104.0+build3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:18905): IBUS-WARNING **: 23:07:45.714: firefox has no capability of surrounding-text feature
+[Parent 18905, Main Thread] WARNING: firefox has no capability of surrounding-text feature: 'glib warning', file /build/firefox-cvs9kB/firefox-104.0+build3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:18905): IBUS-WARNING **: 23:07:45.801: firefox has no capability of surrounding-text feature
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iyQX4/ya/l/makehaste_jhash/NLFEESV3Agr.js?_nc_x=_MN8pvpqAF5, line 185: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iyQX4/ya/l/makehaste_jhash/NLFEESV3Agr.js?_nc_x=_MN8pvpqAF5, line 185: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iyQX4/ya/l/makehaste_jhash/NLFEESV3Agr.js?_nc_x=_MN8pvpqAF5, line 185: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iyQX4/ya/l/makehaste_jhash/NLFEESV3Agr.js?_nc_x=_MN8pvpqAF5, line 185: Error: StreamError: UNAUTHORIZED
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iyQX4/ya/l/makehaste_jhash/NLFEESV3Agr.js?_nc_x=_MN8pvpqAF5, line 185: Error: StreamError: UNAUTHORIZED
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662394167116	Marionette	INFO	Stopped listening on port 44275
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1662394172253	geckodriver	INFO	Listening on 127.0.0.1:38959
+1662394172757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1rlp3m"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662394173636	Marionette	INFO	Marionette enabled
+1662394173643	Marionette	INFO	Listening on port 44883
+WebDriver BiDi listening on ws://localhost:51749
+Read port: 44883
+1662394173749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1rlp3m/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51749/devtools/browser/84e19bb1-ba87-43b0-b4a1-aa82666e699f
+1662394175652	geckodriver	INFO	Listening on 127.0.0.1:40155
+1662394176159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36379" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGHqueY"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662394177045	Marionette	INFO	Marionette enabled
+1662394177050	Marionette	INFO	Listening on port 37547
+WebDriver BiDi listening on ws://localhost:36379
+Read port: 37547
+1662394177166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGHqueY/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36379/devtools/browser/5f052fb8-50ea-4822-ac4f-64046270e872
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yw/l/en_GB/G79S4wpQ6hy.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662394182753	Marionette	INFO	Stopped listening on port 44883
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i1BW4/y_/l/makehaste_jhash/cvK8E39sq4OGGIf2mdiB74ksGMDSiBKI7rPYkQzvUJP9sAIY5DSwvyMoYElJG8xYxQ7CVNy2SwuaF4BrGFvqKqwPRMxyukigPfwVHskZ6eGX_DYEXi9USkRAhXtWeTavrTrzuSPATQcvvXUku_ciq_pTMFAn3Pkek45nx5gsoin8UjS1ojUNHcdC1KJ.js?_nc_x=_MN8pvpqAF5, line 649: Error: Minified React error #407; visit https://reactjs.org/docs/error-decoder.html?invariant=407 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i1BW4/y_/l/makehaste_jhash/cvK8E39sq4OGGIf2mdiB74ksGMDSiBKI7rPYkQzvUJP9sAIY5DSwvyMoYElJG8xYxQ7CVNy2SwuaF4BrGFvqKqwPRMxyukigPfwVHskZ6eGX_DYEXi9USkRAhXtWeTavrTrzuSPATQcvvXUku_ciq_pTMFAn3Pkek45nx5gsoin8UjS1ojUNHcdC1KJ.js?_nc_x=_MN8pvpqAF5, line 649: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i_-Z4/yD/l/makehaste_jhash/BWHYfKqR_gfcvK8E39sq4OGGIf2mdiB74ksGMDSiBKI7rPYkQzvUJP9sAIY5DSwvyMoYElJG8xYxQ7CVNy2SwuaF4BrGFvqKqwP.js?_nc_x=_MN8pvpqAF5, line 1120: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i_-Z4/yD/l/makehaste_jhash/BWHYfKqR_gfcvK8E39sq4OGGIf2mdiB74ksGMDSiBKI7rPYkQzvUJP9sAIY5DSwvyMoYElJG8xYxQ7CVNy2SwuaF4BrGFvqKqwP.js?_nc_x=_MN8pvpqAF5, line 1120: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+[Parent 19532, Main Thread] WARNING: firefox has no capability of surrounding-text feature: 'glib warning', file /build/firefox-cvs9kB/firefox-104.0+build3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:19532): IBUS-WARNING **: 23:09:46.316: firefox has no capability of surrounding-text feature
+[Parent 19532, Main Thread] WARNING: firefox has no capability of surrounding-text feature: 'glib warning', file /build/firefox-cvs9kB/firefox-104.0+build3/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:19532): IBUS-WARNING **: 23:09:46.376: firefox has no capability of surrounding-text feature
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iyQX4/ya/l/makehaste_jhash/NLFEESV3Agr.js?_nc_x=_MN8pvpqAF5, line 185: Error: StreamError: UNAUTHORIZED
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662394290908	Marionette	INFO	Stopped listening on port 37547
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
